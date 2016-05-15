@@ -46,6 +46,7 @@ class HelperPlugin extends Plugin
         'preg_match',
         'preg_replace',
         'print_r',
+        'round',
         'rtrim',
         'sprintf',
         'str_pad',
